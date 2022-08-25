@@ -1,1 +1,19 @@
 /* write your override styles here */
+#wall .tag-1 {
+ background: url(../images/tag-1.png) no-repeat;
+ z-index: 7;
+ display: none;
+ color: blue;
+ padding: 0%;
+ margin: auto;
+ font-size: 30px;
+ padding-left: 0%;
+ padding-top: 0%;
+ margin-top: auto;
+ margin-bottom: auto;
+
+}
+
+#wall #tag-2 {
+ display: none;
+}
